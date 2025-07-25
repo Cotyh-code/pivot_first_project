@@ -1,0 +1,85 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: My Portfolio
+Date: Thu, 24 Jul 2025 18:51:30 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--k6L5nt4Gczs878UHvJo6aFumtydOJucBrq1Y8J6r6O----"
+
+
+------MultipartBoundary--k6L5nt4Gczs878UHvJo6aFumtydOJucBrq1Y8J6r6O----
+Content-Type: text/html
+Content-ID: <frame-0916F32A7DE305EDF086F9C3A5FFC760@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-563d6633-8863-4983-b043-7318ae3f2e32@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-019cbdaf-41b4-4184=
+-932a-04b2e6b96c05@mhtml.blink" />
+   =20
+    <title>My Portfolio</title>
+   =20
+    </head><body data-new-gr-c-s-check-loaded=3D"14.1245.0" data-gr-ext-ins=
+talled=3D""><header class=3D"header">
+        <h1>Coty Hunter</h1>
+        <div>
+        <a class=3D"a-tag" href=3D"http://127.0.0.1:5500/index.html#">About=
+</a>
+        <a class=3D"a-tag" href=3D"http://127.0.0.1:5500/index.html#">Proje=
+cts</a>
+    <a class=3D"a-tag" href=3D"http://127.0.0.1:5500/index.html#">Contacts<=
+/a>
+    </div>
+    </header>
+
+
+
+
+<div>
+<section>
+    <h3>About Me</h3>
+    img src=3D
+</section>
+</div>
+  =20
+
+
+
+
+<footer class=3D"footer">
+<p>@ 2025 Coty</p></footer>
+
+<!-- Code injected by live-server -->
+
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root=3D"true"><=
+template shadowmode=3D"open"><div aria-label=3D"grammarly-integration" role=
+=3D"group" tabindex=3D"-1" class=3D"grammarly-desktop-integration" data-con=
+tent=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;=
+isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integrati=
+on></html>
+------MultipartBoundary--k6L5nt4Gczs878UHvJo6aFumtydOJucBrq1Y8J6r6O----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-019cbdaf-41b4-4184-932a-04b2e6b96c05@mhtml.blink
+
+@charset "utf-8";
+
+.footer { background-color: pink; color: purple; text-align: center; paddin=
+g: 20px 10px 10px; }
+------MultipartBoundary--k6L5nt4Gczs878UHvJo6aFumtydOJucBrq1Y8J6r6O----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-563d6633-8863-4983-b043-7318ae3f2e32@mhtml.blink
+
+@charset "utf-8";
+
+.header { background-color: pink; color: purple; padding: 10px; text-align:=
+ center; }
+
+.a-tag { color: green; }
+------MultipartBoundary--k6L5nt4Gczs878UHvJo6aFumtydOJucBrq1Y8J6r6O------
